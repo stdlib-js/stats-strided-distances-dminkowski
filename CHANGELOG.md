@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-30)
+## Unreleased (2026-05-04)
 
 <section class="features">
 
@@ -16,12 +16,23 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`8516750`](https://github.com/stdlib-js/stdlib/commit/851675024a46ddac355e48493759d1e793a1de8a) - add missing suffix wrappers [(#11904)](https://github.com/stdlib-js/stdlib/pull/11904)
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`8516750`](https://github.com/stdlib-js/stdlib/commit/851675024a46ddac355e48493759d1e793a1de8a) - **fix:** add missing suffix wrappers [(#11904)](https://github.com/stdlib-js/stdlib/pull/11904) _(by Philipp Burckhardt)_
 -   [`605b1df`](https://github.com/stdlib-js/stdlib/commit/605b1dfa2f484bb76264475b1308c883a08eab75) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`aab353b`](https://github.com/stdlib-js/stdlib/commit/aab353b810da08a1015a2f3010833d5628a6c2fb) - **feat:** add `stats/strided/distances/dminkowski` [(#10567)](https://github.com/stdlib-js/stdlib/pull/10567) _(by Nakul Krishnakumar, Athan Reines)_
 
